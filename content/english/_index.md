@@ -1,53 +1,50 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Very Good Software"
+  content: "Reliable, no-nonsense software solutions for any company"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Get in Touch Today"
+    link: "/contact"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "CyberSecurity services"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: ""
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Application security: Get your software reviewed today and ensure the safety of your users and your data"
+      - "Penetration testing: Understand and mitigate the risks of your organization"
+      - "Adversarial emulation: Simulate real life, end-to-end attacks to assess all the aspects of your organization"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Get in Touch Today"
+      link: "/contact"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Data Engineering & AI"
+    image: "/images/service-2.png"
+    content: ""
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Incorporate ready-to-use AI technologies such as ChatGPT and Dall-e to your business."
+      - "Custom made models for your specific use cases."
+      - "Efficient, low-cost data pipelines capable of processing billions of data points."
+    button:
+      enable: true
+      label: "Get in Touch Today"
+      link: "/contact"
+
+  - title: "Software Consultancy"
+    image: "/images/service-3.png"
+    content: "We rescue companies from Software hell!"
+    bulletpoints:
+      - "Do you have a software solution that works but nobody knows how or why?"
+      - "Do you have so much technical debt that adding new features becomes expensive and slow?"
+      - "Do you have problems hiring and retaining software talent?"
+      - "We take your software from whatever stage it is at right now and help you turn it into a scalable architecture easier to maintain and expand."
     button:
       enable: false
-      label: ""
-      link: ""
+      label: "Get in Touch Today"
+      link: "/contact"
 ---
