@@ -3,7 +3,6 @@ title: "How to generate a bootable ISO from a Docker image"
 meta_title: ""
 description: "Tutorial on how to turn a container into a bootable ISO"
 date: 2024-03-07T05:00:00Z
-image: "/images/image-placeholder.png"
 categories: ["Application", "Data"]
 author: "Agustin Chiappe Berrini"
 tags: ["Linux", "docker"]
